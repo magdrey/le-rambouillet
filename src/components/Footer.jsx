@@ -34,10 +34,10 @@ function Footer() {
           </div>
           <div className="level2">
             <p className="FH-head">About</p>
-            <HashLink to="/about#history" className="FH-body">
+            <HashLink to="/about#History" className="FH-body">
               History
             </HashLink>
-            <HashLink to="about#mission" className="FH-body">
+            <HashLink to="/about#mission" className="FH-body">
               Mission
             </HashLink>
             <HashLink to="/about#vision" className="FH-body">

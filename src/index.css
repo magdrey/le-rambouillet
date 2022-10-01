@@ -222,6 +222,9 @@ display: block; text-align: center; padding: 12% 5% 6% 5%;
 .read-more img{ cursor: pointer; margin-left: 1.5rem;}
 .section-heads{font-size: 1.7rem;}
 }
+@media only screen and (min-width: 751px) and (max-width:1220px) {
+  .cardtext{ word-wrap: break-word;}
+}
 @media only screen and (min-width: 751px) {
   .sectionoverbody{display: flex;}
   .semielipse{  width: 5%; margin-top: 35%;}
