@@ -71,7 +71,7 @@ a {text-decoration: none;}
   display: block;
 }
 .navshow{ left: 0;
-  position: absolute;
+  position: fixed;
   text-align: center;
   top: 0;
   background-color: #2860EF;
